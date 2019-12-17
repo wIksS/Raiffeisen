@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\obj\Debug\netcoreapp3.1\Loops.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+C:\Users\Viktor\source\repos\RaiffeisenRules\Loops\obj\Debug\netcoreapp3.1\Loops.pdb

@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\bin\Debug\netcoreapp3.1\RaiffeisenRules.exe
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\bin\Debug\netcoreapp3.1\RaiffeisenRules.deps.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\bin\Debug\netcoreapp3.1\RaiffeisenRules.runtimeconfig.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\bin\Debug\netcoreapp3.1\RaiffeisenRules.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\bin\Debug\netcoreapp3.1\RaiffeisenRules.dll
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\bin\Debug\netcoreapp3.1\RaiffeisenRules.pdb
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\obj\Debug\netcoreapp3.1\RaiffeisenRules.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\obj\Debug\netcoreapp3.1\RaiffeisenRules.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\obj\Debug\netcoreapp3.1\RaiffeisenRules.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\obj\Debug\netcoreapp3.1\RaiffeisenRules.dll
+C:\Users\Viktor\source\repos\RaiffeisenRules\RaiffeisenRules\obj\Debug\netcoreapp3.1\RaiffeisenRules.pdb

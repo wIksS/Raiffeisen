@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\bin\Debug\netcoreapp3.1\While.exe
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\bin\Debug\netcoreapp3.1\While.deps.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\bin\Debug\netcoreapp3.1\While.dll
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\bin\Debug\netcoreapp3.1\While.pdb
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\obj\Debug\netcoreapp3.1\While.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\obj\Debug\netcoreapp3.1\While.dll
+C:\Users\Viktor\source\repos\RaiffeisenRules\While\obj\Debug\netcoreapp3.1\While.pdb

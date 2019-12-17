@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\bin\Debug\netcoreapp3.1\Triangles.exe
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\bin\Debug\netcoreapp3.1\Triangles.deps.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\bin\Debug\netcoreapp3.1\Triangles.runtimeconfig.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\bin\Debug\netcoreapp3.1\Triangles.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\bin\Debug\netcoreapp3.1\Triangles.dll
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\bin\Debug\netcoreapp3.1\Triangles.pdb
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\obj\Debug\netcoreapp3.1\Triangles.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\obj\Debug\netcoreapp3.1\Triangles.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\obj\Debug\netcoreapp3.1\Triangles.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\obj\Debug\netcoreapp3.1\Triangles.dll
+C:\Users\Viktor\source\repos\RaiffeisenRules\Triangles\obj\Debug\netcoreapp3.1\Triangles.pdb
