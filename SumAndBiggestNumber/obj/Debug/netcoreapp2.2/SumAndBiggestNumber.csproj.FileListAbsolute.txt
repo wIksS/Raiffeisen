@@ -1,0 +1,10 @@
+C:\Users\Sadmin\Desktop\Raiffeisen\SumAndBiggestNumber\bin\Debug\netcoreapp2.2\SumAndBiggestNumber.deps.json
+C:\Users\Sadmin\Desktop\Raiffeisen\SumAndBiggestNumber\bin\Debug\netcoreapp2.2\SumAndBiggestNumber.runtimeconfig.json
+C:\Users\Sadmin\Desktop\Raiffeisen\SumAndBiggestNumber\bin\Debug\netcoreapp2.2\SumAndBiggestNumber.runtimeconfig.dev.json
+C:\Users\Sadmin\Desktop\Raiffeisen\SumAndBiggestNumber\bin\Debug\netcoreapp2.2\SumAndBiggestNumber.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\SumAndBiggestNumber\bin\Debug\netcoreapp2.2\SumAndBiggestNumber.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\SumAndBiggestNumber\obj\Debug\netcoreapp2.2\SumAndBiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\SumAndBiggestNumber\obj\Debug\netcoreapp2.2\SumAndBiggestNumber.AssemblyInfoInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\SumAndBiggestNumber\obj\Debug\netcoreapp2.2\SumAndBiggestNumber.AssemblyInfo.cs
+C:\Users\Sadmin\Desktop\Raiffeisen\SumAndBiggestNumber\obj\Debug\netcoreapp2.2\SumAndBiggestNumber.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\SumAndBiggestNumber\obj\Debug\netcoreapp2.2\SumAndBiggestNumber.pdb

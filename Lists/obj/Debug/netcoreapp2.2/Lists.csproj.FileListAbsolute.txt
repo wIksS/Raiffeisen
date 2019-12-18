@@ -1,0 +1,10 @@
+C:\Users\Sadmin\Desktop\Raiffeisen\Lists\bin\Debug\netcoreapp2.2\Lists.deps.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Lists\bin\Debug\netcoreapp2.2\Lists.runtimeconfig.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Lists\bin\Debug\netcoreapp2.2\Lists.runtimeconfig.dev.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Lists\bin\Debug\netcoreapp2.2\Lists.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\Lists\bin\Debug\netcoreapp2.2\Lists.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\Lists\obj\Debug\netcoreapp2.2\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\Lists\obj\Debug\netcoreapp2.2\Lists.AssemblyInfoInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\Lists\obj\Debug\netcoreapp2.2\Lists.AssemblyInfo.cs
+C:\Users\Sadmin\Desktop\Raiffeisen\Lists\obj\Debug\netcoreapp2.2\Lists.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\Lists\obj\Debug\netcoreapp2.2\Lists.pdb

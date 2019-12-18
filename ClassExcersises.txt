@@ -1,0 +1,22 @@
+1.Enter n. Enter an array with size n. 
+Fill the array with numbers 1..n
+Print all even (четни) numbers in the array
+
+2. Enter n. Enter n number in an array.
+
+a) Print the sum of all the numbers in the array
+b) Find the biggest number in the array and print it.
+
+3. Create a program that reads two numbers and
+asks the user what he wants
+
+a) Sum
+b) Substract
+c) Multiplication
+d) Division
+
+!!! Use methods for every a. b. c. d.
+
+4. Create a method that reads an array from the console and returns
+Create another method that takes an array as a parameter and prints it
+Create a method that takes an array as a parameter and returns the smallest number

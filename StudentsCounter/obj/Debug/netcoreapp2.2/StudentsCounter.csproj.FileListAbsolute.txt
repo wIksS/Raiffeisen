@@ -1,0 +1,10 @@
+C:\Users\Sadmin\Desktop\Raiffeisen\StudentsCounter\bin\Debug\netcoreapp2.2\StudentsCounter.deps.json
+C:\Users\Sadmin\Desktop\Raiffeisen\StudentsCounter\bin\Debug\netcoreapp2.2\StudentsCounter.runtimeconfig.json
+C:\Users\Sadmin\Desktop\Raiffeisen\StudentsCounter\bin\Debug\netcoreapp2.2\StudentsCounter.runtimeconfig.dev.json
+C:\Users\Sadmin\Desktop\Raiffeisen\StudentsCounter\bin\Debug\netcoreapp2.2\StudentsCounter.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\StudentsCounter\bin\Debug\netcoreapp2.2\StudentsCounter.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\StudentsCounter\obj\Debug\netcoreapp2.2\StudentsCounter.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\StudentsCounter\obj\Debug\netcoreapp2.2\StudentsCounter.AssemblyInfoInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\StudentsCounter\obj\Debug\netcoreapp2.2\StudentsCounter.AssemblyInfo.cs
+C:\Users\Sadmin\Desktop\Raiffeisen\StudentsCounter\obj\Debug\netcoreapp2.2\StudentsCounter.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\StudentsCounter\obj\Debug\netcoreapp2.2\StudentsCounter.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\bin\Debug\netcoreapp2.1\NToM.deps.json
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\bin\Debug\netcoreapp2.1\NToM.runtimeconfig.json
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\bin\Debug\netcoreapp2.1\NToM.runtimeconfig.dev.json
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\bin\Debug\netcoreapp2.1\NToM.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\bin\Debug\netcoreapp2.1\NToM.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\obj\Debug\netcoreapp2.1\NToM.csprojAssemblyReference.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\obj\Debug\netcoreapp2.1\NToM.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\obj\Debug\netcoreapp2.1\NToM.AssemblyInfoInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\obj\Debug\netcoreapp2.1\NToM.AssemblyInfo.cs
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\obj\Debug\netcoreapp2.1\NToM.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\NToM\obj\Debug\netcoreapp2.1\NToM.pdb

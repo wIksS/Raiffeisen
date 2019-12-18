@@ -1,0 +1,11 @@
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\bin\Debug\netcoreapp2.2\Methods.deps.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\bin\Debug\netcoreapp2.2\Methods.runtimeconfig.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\bin\Debug\netcoreapp2.2\Methods.runtimeconfig.dev.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\bin\Debug\netcoreapp2.2\Methods.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\bin\Debug\netcoreapp2.2\Methods.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\obj\Debug\netcoreapp2.2\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\obj\Debug\netcoreapp2.2\Methods.AssemblyInfoInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\obj\Debug\netcoreapp2.2\Methods.AssemblyInfo.cs
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\obj\Debug\netcoreapp2.2\Methods.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\obj\Debug\netcoreapp2.2\Methods.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\Methods\obj\Debug\netcoreapp2.2\Methods.csprojAssemblyReference.cache

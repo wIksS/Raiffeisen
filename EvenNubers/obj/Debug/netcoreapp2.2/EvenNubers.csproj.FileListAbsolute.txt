@@ -1,0 +1,10 @@
+C:\Users\Sadmin\Desktop\Raiffeisen\EvenNubers\bin\Debug\netcoreapp2.2\EvenNubers.deps.json
+C:\Users\Sadmin\Desktop\Raiffeisen\EvenNubers\bin\Debug\netcoreapp2.2\EvenNubers.runtimeconfig.json
+C:\Users\Sadmin\Desktop\Raiffeisen\EvenNubers\bin\Debug\netcoreapp2.2\EvenNubers.runtimeconfig.dev.json
+C:\Users\Sadmin\Desktop\Raiffeisen\EvenNubers\bin\Debug\netcoreapp2.2\EvenNubers.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\EvenNubers\bin\Debug\netcoreapp2.2\EvenNubers.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\EvenNubers\obj\Debug\netcoreapp2.2\EvenNubers.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\EvenNubers\obj\Debug\netcoreapp2.2\EvenNubers.AssemblyInfoInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\EvenNubers\obj\Debug\netcoreapp2.2\EvenNubers.AssemblyInfo.cs
+C:\Users\Sadmin\Desktop\Raiffeisen\EvenNubers\obj\Debug\netcoreapp2.2\EvenNubers.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\EvenNubers\obj\Debug\netcoreapp2.2\EvenNubers.pdb
