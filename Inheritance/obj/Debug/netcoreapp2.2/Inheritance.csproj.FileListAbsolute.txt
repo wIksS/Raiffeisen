@@ -1,0 +1,14 @@
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\bin\Debug\netcoreapp2.2\Inheritance.deps.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\bin\Debug\netcoreapp2.2\Inheritance.runtimeconfig.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\bin\Debug\netcoreapp2.2\Inheritance.runtimeconfig.dev.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\bin\Debug\netcoreapp2.2\Inheritance.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\bin\Debug\netcoreapp2.2\Inheritance.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\bin\Debug\netcoreapp2.2\Classes OOP.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\bin\Debug\netcoreapp2.2\Classes OOP.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.csprojAssemblyReference.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.AssemblyInfo.cs
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.csproj.CopyComplete
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.pdb

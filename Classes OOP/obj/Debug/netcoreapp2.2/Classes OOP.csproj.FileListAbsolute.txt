@@ -1,0 +1,11 @@
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\bin\Debug\netcoreapp2.2\Classes OOP.deps.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\bin\Debug\netcoreapp2.2\Classes OOP.runtimeconfig.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\bin\Debug\netcoreapp2.2\Classes OOP.runtimeconfig.dev.json
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\bin\Debug\netcoreapp2.2\Classes OOP.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\bin\Debug\netcoreapp2.2\Classes OOP.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\obj\Debug\netcoreapp2.2\Classes OOP.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\obj\Debug\netcoreapp2.2\Classes OOP.AssemblyInfoInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\obj\Debug\netcoreapp2.2\Classes OOP.AssemblyInfo.cs
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\obj\Debug\netcoreapp2.2\Classes OOP.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\obj\Debug\netcoreapp2.2\Classes OOP.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\Classes OOP\obj\Debug\netcoreapp2.2\Classes OOP.csprojAssemblyReference.cache

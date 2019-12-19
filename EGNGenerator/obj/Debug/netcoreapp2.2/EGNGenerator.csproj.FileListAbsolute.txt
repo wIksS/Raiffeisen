@@ -1,0 +1,11 @@
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\bin\Debug\netcoreapp2.2\EGNGenerator.deps.json
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\bin\Debug\netcoreapp2.2\EGNGenerator.runtimeconfig.json
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\bin\Debug\netcoreapp2.2\EGNGenerator.runtimeconfig.dev.json
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\bin\Debug\netcoreapp2.2\EGNGenerator.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\bin\Debug\netcoreapp2.2\EGNGenerator.pdb
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\obj\Debug\netcoreapp2.2\EGNGenerator.csprojAssemblyReference.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\obj\Debug\netcoreapp2.2\EGNGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\obj\Debug\netcoreapp2.2\EGNGenerator.AssemblyInfoInputs.cache
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\obj\Debug\netcoreapp2.2\EGNGenerator.AssemblyInfo.cs
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\obj\Debug\netcoreapp2.2\EGNGenerator.dll
+C:\Users\Sadmin\Desktop\Raiffeisen\EGNGenerator\obj\Debug\netcoreapp2.2\EGNGenerator.pdb
